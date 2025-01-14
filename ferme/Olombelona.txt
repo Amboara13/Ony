@@ -1,0 +1,8 @@
+Nom: Paul, X: 216.0, Y: 598.0, DX: 0, DY: 0, Xo: 23.0, Yo: 43.0, Bonheur: 8.5, Vie: 10.0, Sexe: L, Encharge: 1, Zanaka: null, 
+Nom: Lea, X: 61.0, Y: 576.0, DX: 0, DY: 0, Xo: 500.0, Yo: 583.0, Bonheur: 8.5, Vie: 10.0, Sexe: V, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 0.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: L, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 70.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: V, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 140.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: L, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 210.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: V, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 280.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: L, Encharge: 1, Zanaka: null, 
+Nom: Zanaka, X: 350.0, Y: 480.0, DX: 0, DY: 0, Xo: 0.0, Yo: 0.0, Bonheur: 0.0, Vie: 10.0, Sexe: V, Encharge: 1, Zanaka: null, 
