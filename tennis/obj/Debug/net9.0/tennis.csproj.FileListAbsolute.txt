@@ -1,0 +1,5 @@
+C:\Users\AMBOARA\tennis\obj\Debug\net9.0\tennis.csproj.AssemblyReference.cache
+C:\Users\AMBOARA\tennis\obj\Debug\net9.0\tennis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMBOARA\tennis\obj\Debug\net9.0\tennis.AssemblyInfoInputs.cache
+C:\Users\AMBOARA\tennis\obj\Debug\net9.0\tennis.AssemblyInfo.cs
+C:\Users\AMBOARA\tennis\obj\Debug\net9.0\tennis.csproj.CoreCompileInputs.cache
